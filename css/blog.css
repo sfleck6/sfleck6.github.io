@@ -184,6 +184,10 @@ line-height: 20px;
 
 /* Blog Post Page */
 
+#share-buttons {
+  margin-left: 25%;
+}
+
 #share-buttons img {
   width: 35px;
   padding: 5px;
